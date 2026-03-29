@@ -7,7 +7,8 @@ aspiring AI developer passionate about learing new skills.<br>always learning so
 
 
 ## 🌐 Socials:
-www.linkedin.com/in/mahak-ashtankar-00076a356
+www.linkedin.com/in/mahak-ashtankar
+
 
 
 # 💻 Tech Stack:
