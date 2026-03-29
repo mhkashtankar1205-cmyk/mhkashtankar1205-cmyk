@@ -108,7 +108,3 @@ I’m an aspiring AI developer passionate about building intelligent systems and
 * Become a skilled AI Engineer
 
 ---
-
-## 📈 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=mhkashtankar1205-cmyk\&icon=0\&color=6)](https://visitcount.itsvg.in)
