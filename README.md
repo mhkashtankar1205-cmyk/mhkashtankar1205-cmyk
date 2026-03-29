@@ -1,5 +1,8 @@
 # 💫 HEY,I am MAHAK:
 aspiring AI developer passionate about learing new skills.<br>always learning someething new.<br>
+🎓 B-Tech in Computer Engineering (2023–2027)
+📍 Nagpur, Maharashtra, India
+📧 mhk.ashtankar1205@gmail.com
 
 
 ## 🌐 Socials:
