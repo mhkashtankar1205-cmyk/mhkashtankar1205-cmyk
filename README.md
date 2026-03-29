@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 HEY,I am MAHAK:
 aspiring AI developer passionate about learing new skills.<br>always learning someething new.<br>
 
 
