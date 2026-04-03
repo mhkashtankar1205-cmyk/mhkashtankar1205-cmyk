@@ -88,16 +88,9 @@ I’m an aspiring AI developer passionate about building intelligent systems and
 
 * 🤖 Artificial Intelligence & Machine Learning
 * 📊 Data Analysis & Smart Systems
-* 🌐 Full Stack Development
 * ⚡ Problem Solving & Innovation
 
----
 
-## 🏆 Achievements
-
-* 🥇 Hackathon Winner (Multiple events)
-* 🏅 Recognized for leadership & technical contributions
-* 🎖️ Rising Star in IIoT (Awarded by Nitin Gadkari)
 
 ---
 
